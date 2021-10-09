@@ -1,0 +1,66 @@
+Ghana web
+website: https://ghanaweb.com/
+title groupings:
+    News
+    Sports
+    Business
+    Entertainment
+    Africa
+
+News: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+Most Read
+Lastest News
+    By Date(date = <year month day>): https://www.ghanaweb.com/GhanaHomePage/NewsArchive/browse.archive.php?date=20211007
+    Headings: div.medsection1>div>h3*
+   Lists: div.medsection1>div>ul* (nextElementSibling property of heading)
+        Press Releases
+        Opinions
+        Diasporian News
+        General News
+        Politics
+        Crime and Punishment
+        Health News 
+        Regional News
+
+Sports: https://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+Most Read
+Lastest Sports
+Soccer 
+Boxing
+Athletics
+Basketball
+    By Date: https://www.ghanaweb.com/GhanaHomePage/SportsArchive/browse.archive.php?date=20211007
+        Other Sports
+        Sports News
+
+Business: https://www.ghanaweb.com/GhanaHomePage/business/
+Most Read
+Lastest BUsiness News
+    By Date: https://www.ghanaweb.com/GhanaHomePage/business/browse.archive.php?date=20211007
+        Business News
+
+Entertainment: https://www.ghanaweb.com/GhanaHomePage/entertainment/
+Most Read
+Lastest Entertainment News
+Lifestyle
+Music
+Movies
+Fashion
+    By Date: https://www.ghanaweb.com/GhanaHomePage/entertainment/browse.archive.php
+        Entertainment
+        Music
+        Movies
+        Fashion
+        Tabloid News
+
+Africa: https://www.ghanaweb.com/GhanaHomePage/africa/
+Most Read
+Lastest News
+    By Date: https://www.ghanaweb.com/GhanaHomePage/africa/browse.archive.php
+    Africa News
+    Africa Business News
+    Africa Sports News
+    Africa Entertainment News
+
+MyJoyOnline
+Daily Graphic
